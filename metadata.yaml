@@ -1,0 +1,42 @@
+_repo: The-Hero-in-Man_36912
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bax, Clifford
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '42120'
+    url: http://www.gutenberg.org/2009/agents/42120
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, George William
+    aliases:
+    - Russell, G. W. (George William)
+    - A.E.
+    - AE
+    - E., A.
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '1869'
+    url: http://www.gutenberg.org/2009/agents/1869
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Russell
+description: ''
+gutenberg_issued: '2011-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism'
+- !lcsh 'Essays'
+- !lcsh 'Spirituality'
+- !lcc 'PR'
+- !lcc 'BV'
+title: The Hero in Man
+url: http://www.gutenberg.org/ebooks/36912
